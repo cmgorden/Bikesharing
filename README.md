@@ -11,6 +11,9 @@ The top image depicts when bikes are most often being checked out for all user t
 <img src="Trips_Weekday.png" width="500" height="500">
 <br>
 
+<img src="Trips_Weekday_Gender.png" width="500" height="500">
+<br>
+
 
 <br>[Link to additional CitiBike program information](https://public.tableau.com/profile/cami.mandell.gorden#!/vizhome/Module14Challenge_16196499609200/UserTripsbyGenderbyWeekday)
 
