@@ -4,36 +4,42 @@
 CitiBike in New York City offers residents and tourists alike the opportunity to save on gas, get some exercise all while enjoying all the city has to offer. This analysis looked at who specifically is using CitiBikes (by payer type and by gender) and when they are most likely to be using them. This information is essential to understanding how the CitiBike program in New York could be applied to other cities in the United States.  
 
 ## Results
+The main takeaways from this analysis are that:
+1. Most individuals using CitiBikes are subscribers.
+2. Most individuals using CitiBikes identify as male.
+3. Most bikes are being checked out during morning commute hours and most bikes are being returned to during evening commute hours. 
 
-The image below depicts when bikes are most often being checked out for all user types and all genders. The bottom image breaks this down by gender. We can see from this image that men and women are checking bikes out at similar times however overall men are checking out more bikes tham women. 
+See the images and descriptions below for more detailed results.
+<br>
+<br>The image below depicts when bikes are most often being checked out for all user types and all genders. The bottom image breaks this down by gender. We can see from this image that men and women are checking bikes out at similar times however overall men are checking out more bikes tham women. 
 <br>
 <br><img src="Checkout_Times.png" width="500" height="500">
 <br>
 
 The images below depict what times of the day users are most often using bikes. Most weekday trips occur around standard commute hours (7am-9am and 4pm-7pm), this is consistent by gender however we can see that more males are using bikes in general at all times, including during commute hours. 
 Most weekend trips occurred towards the middle of the day into the early evening, from around 11am-6pm. 
-<br><img src="Trips_Weekday.png" width="500" height="500">
+<br><br><img src="Trips_Weekday.png" width="500" height="500">
+
+<br>
+
+<img src="Trips_Weekday_Gender.png" width="1200" height="500">
+<br>
+<br>
+The image below depicts days of the week bikes are most often, and least often, being used broke down by gender. Bikes are most often being used (from highest use to lowest use) as follows: Thursday, Friday, Tuesday, Monday, Saturday, Wednesday, Sunday. As above images have shown those identifying as male are using bikes more often than those identifying as female. 
+<img src="User_Gender_Weekday.png" width="500" height="400">
+<br>
+
+<br>
+The two images below depict where bikes are being checked out from and where bikes are being returned to. We can see from both images that bikes are most often being checked out and returned in more densely populated areas. 
+<br>
+<br><img src="Start_Locations.png" width="600" height="600">
 <br>
 
 <br>
 
-<img src="Trips_Weekday_Gender.png" width="500" height="500">
-<br>
-<br>
-
-<img src="User_Gender_Weekday.png" width="1200" height="500">
-<br>
-The image above depicts when bikes are most often being checked out for all user types and all genders. The bottom image breaks this down by gender. We can see from this image that men and women are checking bikes out at similar times however overall men are checking out more bikes tham women. 
+<img src="End_Locations.png" width="600" height="600">
 <br>
 
-<img src="Start_Locations.png" width="500" height="500">
-<br>
-The image above depicts when bikes are most often being checked out for all user types and all genders. The bottom image breaks this down by gender. We can see from this image that men and women are checking bikes out at similar times however overall men are checking out more bikes tham women. 
-<br>
-
-<img src="End_Locations.png" width="500" height="500">
-<br>
-The image above depicts when bikes are most often being checked out for all user types and all genders. The bottom image breaks this down by gender. We can see from this image that men and women are checking bikes out at similar times however overall men are checking out more bikes tham women. 
 
 
 <br>[Link to additional CitiBike program information](https://public.tableau.com/profile/cami.mandell.gorden#!/vizhome/TheNYCitiBikeStory/TheNYCitiBikeStory?publish=yes)
